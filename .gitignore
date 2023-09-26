@@ -1,0 +1,6 @@
+*.zip
+*.webm
+*.pdf
+.vscode/
+**/bin/
+**/build/
